@@ -4,12 +4,13 @@ namespace Metotlar
 {
     class Program
     {
+
         static void Main(string[] args)
         {
-
+            /*
             string urunAdi = "Elma";
             double fiyati = 15;
-            string aciklama = "Amasya Elması";
+            string aciklama = "Amasya Elması";*/
 
             string[] meyveler = new string[] { }; // burası string array i
 

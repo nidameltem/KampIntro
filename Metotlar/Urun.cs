@@ -6,6 +6,7 @@ namespace Metotlar
 {
     class Urun
     {
+
         //Property - Ozellik Bunların her biri bir özellik ad, fiyat...
         public int Id { get; set; }
         public string Adi { get; set; }

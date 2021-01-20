@@ -6,6 +6,7 @@ namespace Metotlar
 {
     class SepetManager
     {
+
         public void Ekle(Urun urun) //Urun class ı ilgili elemanları tutuyordu
         {
 
